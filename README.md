@@ -6,9 +6,9 @@ I am a human being who is very passionate about learning from everything and eve
 
 
 
-- 🔭 I’m currently working on create Open Sources projects for learning Angular and Flutter 
-- 💬 Ask me about Flutter, Angular and Micro Front-ends
+- 🔭 I’m currently working on creating Open Sources projects for learning Angular and Flutter 
+- 💬 Ask me about Flutter, Angular, and Micro Front-ends
 - 📫 How to reach me: danielherresan@gmail.com
 - ⚡ Fun fact: 😆
-
+- 🌍 My website: https://danielherrerasanchez.tech/
 
