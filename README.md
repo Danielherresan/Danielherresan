@@ -13,10 +13,10 @@ I am a human being who is very passionate about learning from everything and eve
 - 🌍 My website: https://danielherrerasanchez.tech/
 
 
-#architecture_reference_flutter 🚀
+# architecture_reference_flutter 🚀
 In this repository, we will upload reference architectures that developers can use as a reference for their projects. You are invited to contribute. If you want to add elements, you must keep in mind that your component is as well documented 📗 as possible so that everyone can benefit 🧪.
 
-##References 🕵🏼
+## References 🕵🏼
 Please reference this repo in the places that use them 👾
 
 ## 🔗 https://github.com/Danielherresan/arquitectura_referencia_flutter
